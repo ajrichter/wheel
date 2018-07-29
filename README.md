@@ -30,5 +30,5 @@ Writing data structures, algorithims, and solving programming problems
 - [ ] Binary Search
 - [ ] k-way Merge
 
-## Topcode Tutorials
+## Topcoder Tutorials
 - [ ] https://www.topcoder.com/community/data-science/data-science-tutorials/
